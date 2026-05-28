@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+business_sales.db
+reports/*.txt
+.env
